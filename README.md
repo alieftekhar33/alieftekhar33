@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=990&color=FF8700&width=435&lines=Welcome+To+the+GitHub+Profile+of;!!!+Sunil+Hassan+Eftekhar+!!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=990&color=FF8700&multiline=true&width=435&lines=Welcome+To+the+GitHub+Profile+of;!!!+Sunil+Hassan+Eftekhar+!!!)](https://git.io/typing-svg)
